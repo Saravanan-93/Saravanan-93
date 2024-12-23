@@ -30,6 +30,6 @@ When I'm not immersed in datasets and algorithms, you’ll find me:
 - **LinkedIn**: [Saravanan Balamurali](https://www.linkedin.com/in/saravanan-balamurali-41507b342/)
 - **GitHub**: You're here already
 
-## Explore My Work 
+## Explore My Work 😎
 Please check out my repositories for detailed documentation about each project. Each project includes its own README.md file with relevant information.
 ---
