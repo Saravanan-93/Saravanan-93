@@ -27,6 +27,6 @@ When I'm not immersed in datasets and algorithms, you’ll find me:
 ## How to Connect with Me 💬  
 - **Email**: [saravana312001@gmail.com](mailto:saravana312001@gmail.com)  
 - **LinkedIn**: [Saravanan Balamurali](https://www.linkedin.com/in/saravanan-balamurali-41507b342/)
-- **GitHub**: [This is the space!](#)  
+- **GitHub**: You're here already
 
 ---
