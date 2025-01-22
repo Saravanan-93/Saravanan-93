@@ -10,7 +10,7 @@ Hi there! I'm Saravanan, a passionate data science enthusiast based in Chennai, 
 ---
 
 ## Skill Stack 🛠️  
-💻 Programming: Python, SQL, R, and a touch of JavaScript  
+💻 Programming: Python, SQL
 📊 Tools: Power BI, Tableau, and Jupyter  
 🤖 Specialties: Machine Learning, Deep Learning, Computer Vision, NLP  
 📦 Data Wrangling: Pandas, NumPy, and Scikit-Learn  
@@ -21,7 +21,6 @@ Hi there! I'm Saravanan, a passionate data science enthusiast based in Chennai, 
 When I'm not immersed in datasets and algorithms, you’ll find me:  
 - 🐾 Admiring dogs and cats (the best kind of creatures).  
 - 🕶️ Reflecting on "There is no spoon" while contemplating choices, reality, and destiny.  
-- ⭐ Reliving the moment "Imagining the galaxy far, far away as a rebel strategist".  
 
 ---
 
